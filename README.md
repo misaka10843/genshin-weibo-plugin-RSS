@@ -1,5 +1,35 @@
 # genshin-weibo-plugin-RSS
-OPQBot的一个原神微博获取插件（RSS版）
+OPQBot的一个原神微博获取插件（RSS版），但是核心文件是可以支持任何一个QQ机器人框架以及调用（因为核心文件是获取内容后文字转成图片），
+
+这样只要框架能支持发送图片，即可使用本插件
+
+## 使用语言及平台
+<br>
+<br>
+
+<p align="center">
+  本仓库默认支持的OPQBot框架需要：<br><br>
+  <img src="https://img.shields.io/badge/Python-2.7+-326c9c?logo=Python&logoColor=326c9c"/>
+  <img src="https://img.shields.io/badge/PHP-7.3+-777bb3?logo=PHP&logoColor=777bb3"/>
+  <img src="https://img.shields.io/badge/Lua-5.0-000080?logo=Lua&logoColor=000080"/>
+  <img src="https://img.shields.io/badge/Shell(bash/sh)-1.0-3e484a?logo=GNU%20Bash&logoColor=ffffff"/>
+  <br><br>
+  如果使用其他的框架的话可以无视&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/Lua-5.0-000080?logo=Lua&logoColor=000080"/>&nbsp&nbsp&nbsp，但是需要您使用框架的插件语言qwq
+</p>
+ <hr>
+ <br>
+ <br>
+ <p align="center">
+其中，本仓库默认支持的OPQBot框架不支持以下系统：<br><br>
+<img src="https://img.shields.io/badge/Android--0?style=social&logo=Android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Windows10--0?style=social&logo=Windows&logoColor=0078D6"/>
+<img src="https://img.shields.io/badge/IOS--0?style=social&logo=IOS&logoColor=black"/>
+</p>
+ <p align="center">
+但是支持&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/Android--0?style=social&logo=Android&logoColor=3DDC84"/><img src="https://img.shields.io/badge/Windows10--0?style=social&logo=Windows&logoColor=0078D6"/>&nbsp&nbsp&nbsp的Linux模拟器
+</p>
+
+
 
 ## 前置💨
 请按照以下命令安装python依赖（此仓库支持python2.7+）
