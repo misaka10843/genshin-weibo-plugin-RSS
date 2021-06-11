@@ -40,9 +40,9 @@ pip install html5lib
 ```
 如果还有提示比如```ModuleNotFoundError: No module named 'name'```这种的还请自行百度qwq
 
-因为是使用的php来解析xml文件，所以还请安装php（版本最好是7.3-7.4）
+因为是使用的php来解析xml文件，所以还请安装php（版本最好是7.3-7.4，Windows请配置php的系统变量（不是用户变量））
 
-如果是Windows系统还请安装wget并且配合系统变量（不是用户变量）
+如果是Windows系统还请安装wget并且配置系统变量（不是用户变量）
 
 ## 运行解析💬
 首先运行```python main.py``` 后，python会使用wget拉取原神的RSS订阅，
