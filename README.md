@@ -5,7 +5,9 @@ OPQBot的一个原神（可以替换成其他人的微博RSS链接）微博获�
 
 ## 使用语言及平台💭
 <br>
-<br>
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/69132853?s=120&v=4"/>
+</p>
 
 <p align="center">
   本仓库默认支持的OPQBot框架需要：<br><br>
